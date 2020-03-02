@@ -1,4 +1,4 @@
-##A Django app created following the Django Introductory tutorials 
+#A Django app created following the Django Introductory tutorials 
 https://docs.djangoproject.com/en/3.0/intro/tutorial01/
 
 =====
